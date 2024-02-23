@@ -1,0 +1,30 @@
+body{
+    background-image: url(background\ image.avif);   /* for keeping background image to whole page*/
+    background-repeat: no-repeat;   /* inorder to keep image without repeating*/
+    background-size: cover;  /*to cover image entire screen*/
+    background-position: 50%; 
+}
+.h1_class{
+    font-size: 50px;
+    font-family: cursive;
+    color:rgb(27, 27, 228);
+    margin: 50px;     
+
+}
+.h2_class{
+    color:rgb(27, 27, 228);
+    text-align: right;
+    margin-top: 20px;
+    
+
+}
+#para_id{
+  
+    text-align: left;
+    margin-top: 30px;
+    margin-left: 30px;
+    color: rgb(27, 27, 228);
+    border: 3px solid rgb(27, 27, 228);
+    display:inline-block /*to fit the border according to the border*/
+     
+}
